@@ -1,0 +1,35 @@
+body {
+  background-color: #e4f9f5;
+  color: #132238;
+}
+
+a {
+  color: #11999e;
+  text-decoration: none;
+}
+
+img {
+  background-color: #98ccd3;
+  height: 180px;
+  width: 130px;
+  border-radius: 150px/200px;
+}
+
+h1 {
+  color: #11999e;
+}
+
+h3 {
+  color: #30e3ca;
+}
+
+hr {
+  color: #11999e;
+  border-style: none;
+  border-top: dotted 6px;
+  width: 5%;
+}
+
+th {
+  color: #11999e;
+}
